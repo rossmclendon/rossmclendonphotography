@@ -1,6 +1,6 @@
-site: Board Jekyll Theme
+site: Ross McLendon Photography
 
-url: 
+url: https://rossmclendonphotography.com
 baseurl: 
 
 collections:
@@ -10,9 +10,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
+  portfolios:
     output: true
-    permalink: /project/:slug
+    permalink: /portfolio/:slug
 
 defaults:
   -
@@ -35,9 +35,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: "portfolios"
     values:
-      layout: "project"
+      layout: "portfolio"
 
 markdown: kramdown
 

@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Board
+  site_title: Ross McLendon Photography
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,17 +8,21 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Portfolios'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
       url: '/about'
+    - title: 'Services'
+      url: '/services/'
+    - title: 'Prints'
+      url: '/prints'
+    - title: 'Blog'
+      url: '/blog/'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Board – a stylish full-width masonry grid Jekyll theme
+  footer_tagline: Landscape, Portraiture, Weddings, and Real Estate Photography
 
 grid_settings:
   overlay_opacity: 0.8
@@ -26,15 +30,15 @@ grid_settings:
   content_alignment: bottom
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/xdopnypd'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://www.facebook.com/rossmclendonphoto'
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/rossmclendonphoto/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''

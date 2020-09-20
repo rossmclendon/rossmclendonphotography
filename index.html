@@ -1,7 +1,7 @@
 ---
 layout: default
-title: A stylish full-width masonry grid theme.
-description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
+title: Ross McLendon Photography
+description: A photographer in Warwick, Rhode Island providing portraiture, wedding, and real estate photography services as well as fine art landscape prints.
 featured_image: /images/social.jpg
 ---
 
@@ -9,20 +9,20 @@ featured_image: /images/social.jpg
 
 	<div class="content-wrap listing-wrap">
 
-		{% for project in site.projects reversed %}
+		{% for portfolio in site.portfolios reversed %}
 
 		<div class="listing-item">
 
-			<a class="listing-item__link" href="{{ project.url | relative_url }}">
+			<a class="listing-item__link" href="{{ portfolio.url | relative_url }}">
 
 				<div class="listing-item__image">
-					<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
+					<img src="{{ portfolio.featured_image | relative_url }}" alt="{{ portfolio.title }}">
 				</div>
 
 				<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
 					<div class="listing-item__info">
-						<h2 class="listing-item__title">{{ project.title }}</h2>
-						<p class="listing-item__subtitle">{{ project.subtitle }}</p>
+						<h2 class="listing-item__title">{{ portfolio.title }}</h2>
+						<p class="listing-item__subtitle">{{ portfolio.subtitle }}</p>
 					</div>
 				</div>
 
