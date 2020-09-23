@@ -7,7 +7,7 @@ featured_image: '/images/ross/RossPortKneelLookingAtCamera.jpg'
 
 <img src="{{ site.baseurl }}/images/ross/RossPortKneelLookingAtCamera.jpg" width="40%">
 
-So if you're new hear and looking through the blog, know that I'm new here, too.  Everything is new here, actually (at least at the time of writing this) as I just created this website.  So hi.  
+So if you're new here and looking through the blog, know that I'm new here, too.  Everything is new here, actually (at least at the time of writing this) as I just created this website.  So hi.  
 
 Really quick - I'm [Ross](/about).  I've been at it in photography for a while now and am to the point where I'm confident I can start making photos for other people that are good enough I'm comfortable charging modest rates to do so.  I haven't really had a website of my own before, but I'm too cost-conscious to pay a monthly fee for something like [Squarespace](https://www.squarespace.com/) (although I hear that's a great tool for website-building), so I asked a few web-developer-type friends, learned a bit about [Jekyll and Markdown](https://jekyllrb.com/), bought the [Board](https://jekyllthemes.io/theme/board-portfolio-jekyll-theme) theme from [here](https://jekyllthemes.io/), and got hacking (that might be a blog post for another day).  And here were are, with you reading my blog.  I think that's pretty cool!
 
