@@ -8,12 +8,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Portfolios'
-      url: '/'
+    - title: 'Portfolio'
+      url: '/portfolio/'
     - title: 'About'
       url: '/about'
     - title: 'Services'
-      url: '/services/'
+      url: '/services'
     - title: 'Prints'
       url: '/prints'
     - title: 'Blog'
@@ -21,8 +21,11 @@ menu_settings:
     - title: 'Contact'
       url: '/contact'
 
+hero_settings:
+  overlay_opacity: 0.8
+
 footer_settings:
-  footer_tagline: Landscape, Portraiture, Weddings, and Real Estate Photography
+  footer_tagline: Landscape, Portraiture, Wedding, and Real Estate Photography
 
 grid_settings:
   overlay_opacity: 0.8
@@ -67,14 +70,16 @@ color_settings:
   background_color: '#ffffff'
   background_alt_color: '#f4f5f6'
   text_dark_color: '#2A2F36'
-  text_medium_color: '#6C7A89'
-  text_light_color: '#ABB7B7'
-  accent_color: '#4ecdc4'
+  text_medium_color: '#6C757D'
+  text_light_color: '#ADB5BD'
+  accent_color: '#343A40'
   border_color: '#dddddd'
-  overlay_background_color: '#4ecdc4'
+  overlay_background_color: '#343A40'
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
+  hero_background_color: '#495057'
+  hero_text_color: '#ffffff'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:300,500" rel="stylesheet">'

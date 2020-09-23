@@ -2,36 +2,31 @@
 layout: default
 title: Ross McLendon Photography
 description: A photographer in Warwick, Rhode Island providing portraiture, wedding, and real estate photography services as well as fine art landscape prints.
-featured_image: /images/social.jpg
+featured_image: /images/ross/RossLandscapeTakingPhoto.jpg
 ---
+<section class="hero">
 
-<section class="listing">
+	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
+		<div class="hero__overlay"></div>
+	</div>
 
-	<div class="content-wrap listing-wrap">
+	<div class="wrap">
+        <h1><br><br></h1>
+		<!--<h1>Portrait<br>Wedding<br>Real Estate<br>Landscape</h1>-->
+        <!--<h1><a href="portfolio/portraiture">Portraiture</a></h1>-->
+        <h1>Portraiture</h1>
+        <h1>Wedding</h1>
+        <h1>Landscape</h1>
+        <h1>Real Estate</h1>
+		<p>Providing services in Rhode Island and surrounding areas.
+            <br><br><br><br></p>
 
-		{% for portfolio in site.portfolios reversed %}
-
-		<div class="listing-item">
-
-			<a class="listing-item__link" href="{{ portfolio.url | relative_url }}">
-
-				<div class="listing-item__image">
-					<img src="{{ portfolio.featured_image | relative_url }}" alt="{{ portfolio.title }}">
-				</div>
-
-				<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
-					<div class="listing-item__info">
-						<h2 class="listing-item__title">{{ portfolio.title }}</h2>
-						<p class="listing-item__subtitle">{{ portfolio.subtitle }}</p>
-					</div>
-				</div>
-
-			</a>
-
-		</div>
-
-		{% endfor %}
+		<!--{% include socials.html %}-->
 
 	</div>
 
 </section>
+<!--![](/images/ross/RossLandscapeTakingPhoto.jpg)
+
+### <center>Portrait, wedding, and real estate photography services<br>in Southern New England as well as<br>fine art photographic landscape prints</center>
+    -->

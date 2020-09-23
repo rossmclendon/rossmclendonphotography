@@ -1,10 +1,10 @@
 ---
 title: Contact
-subtitle: Board comes with a built-in contact form, that's free and easy to set up.
-description: Board is a stylish full-width masonry grid theme.
+subtitle: Reach out with your contact information and some information about what you're looking for.
+description: Our contact form
 featured_image: /images/demo/about.jpg
 ---
 
 {% include contact-form.html %}
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
+I respect your privacy and will not share your contact information with third parties unless I have specifically asked for and received your explicit permission to do so.
