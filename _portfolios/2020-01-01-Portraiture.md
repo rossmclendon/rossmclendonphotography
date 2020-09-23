@@ -6,7 +6,7 @@ description: Beautiful images for your and your loved ones to cherish
 featured_image: '/images/portfolio/portrait/KatieDress.jpg'
 ---
 
-![](/images/portfolio/portrait/KatieDress.jpg)
+![]({{ site.baseurl }}/images/portfolio/portrait/KatieDress.jpg)
 
 From children to couples, headshots to families - I've got you covered.  
 

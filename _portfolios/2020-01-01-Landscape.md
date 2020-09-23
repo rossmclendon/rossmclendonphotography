@@ -6,7 +6,7 @@ description: Beauty of the created and constructed
 featured_image: '/images/portfolio/landscape/ConimicutMoonrise_1500.jpg'
 ---
 
-![](/images/portfolio/landscape/OldStoneChurchPanorama_3000.jpg)
+![]({{ site.baseurl }}/images/portfolio/landscape/OldStoneChurchPanorama_3000.jpg)
 
 More of a personal passion, and largely how I developed my photogrpahy - I love to seek out and capture beautiful moments and scenes in the world around me.  
 

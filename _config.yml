@@ -1,7 +1,7 @@
 site: Ross McLendon Photography
 
-url: https://rossmclendonphotography.com
-baseurl: 
+url: https://https://rossmclendon.github.io
+baseurl: /rossmclendonphotography
 
 collections:
   pages:

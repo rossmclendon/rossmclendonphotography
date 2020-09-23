@@ -5,7 +5,7 @@ description: A little background on who I am.
 featured_image: /images/ross/RossPortraitTakingPhoto.jpg
 ---
 
-<img src="/images/ross/RossLandscapeTakingPhoto.jpg" width="70%">
+<img src="{{ site.baseurl }}/images/ross/RossLandscapeTakingPhoto.jpg" width="70%">
 
 ## Ross McLendon
 
