@@ -15,6 +15,6 @@ When I'm not out with a camera, I'm probably wearing one of a few other hats.  I
 
 ## Get In Touch
 
-Thanks for visiting my website.  If you like [what you see](/portfolio), reach out to inquire about my availability or to order [prints](/prints).
+Thanks for visiting my website.  If you like [what you see]({{ site.baseurl }}/portfolio), reach out to inquire about my availability or to order [prints]({{ site.baseurl }}/prints).
 
-<a href="/contact.html" class="button button--large">Contact Ross!</a>
+<a href="{{ site.baseurl }}/contact.html" class="button button--large">Contact Ross!</a>
