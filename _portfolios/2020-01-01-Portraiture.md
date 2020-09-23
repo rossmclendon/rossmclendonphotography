@@ -8,7 +8,7 @@ featured_image: '/images/portfolio/portrait/KatieDress.jpg'
 
 ![]({{ site.baseurl }}/images/portfolio/portrait/KatieDress.jpg)
 
-From children to couples, headshots to families - I've got you covered.  
+From children to couples, headshots to families - I've got you covered.  [Contact me]({{ site.baseurl }}/contact) to inquire about my availability and schedule your portrait session.
 
 Here are some examples of my portraiture work.
 

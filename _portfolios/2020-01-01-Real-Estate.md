@@ -8,7 +8,7 @@ featured_image: '/images/portfolio/realestate/Exterior_1500.jpg'
 
 ![]({{ site.baseurl }}/images/portfolio/realestate/Exterior_1500.jpg)
 
-In the age of smartphone snaps, quality images of your property can set your listing apart from the others.
+In the age of smartphone snaps, quality images of your property can set your listing apart from the others.  [Contact me]({{ site.baseurl }}/contact) to inquire about my availability to make images which will make your listing stand out!
 
 Here are some examples of my real estate work.
 

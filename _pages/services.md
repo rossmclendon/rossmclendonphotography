@@ -4,7 +4,7 @@ subtitle: Photographic Services and Pricing
 description: Portraiture, wedding, and real estate services and pricing.
 featured_image: /images/ross/RossPortraitTakingPhoto.jpg
 ---
-[Contact me](contact) to inquire about my availability and schedule my services.
+[Contact me]({{ site.baseurl }}/contact) to inquire about my availability and schedule my services.
 ## Portraits
 $250[^1]
 

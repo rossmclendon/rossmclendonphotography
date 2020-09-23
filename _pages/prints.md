@@ -4,7 +4,7 @@ subtitle: Fine Art Prints for your home
 description: Enjoy my photography in your home.
 featured_image: /images/ross/RossPortraitTakingPhoto.jpg
 ---
-[Contact me](contact) if you would like to purchase a print.
+[Contact me]({{ site.baseurl }}/contact) if you would like to purchase a print.
 ## Images
 If there is an image from my Instagram or Facebook feed you're intersted in and you don't see here, let me know and most likely I can arrange to make a print of it.
 ## Pricing
