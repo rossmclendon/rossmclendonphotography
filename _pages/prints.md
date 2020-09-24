@@ -17,4 +17,4 @@ If there is an image from my Instagram or Facebook feed you're intersted in and 
 | 16" × 20"    |  $150   |  $200   |
 | Non-standard | Inquire | Inquire |
 
-Prints come matted in a white mat.  The print size includes a 1/2 inch margin, so for example, the printed area of an 8" × 10" print is actually 7" × 9".  My prints are each hand-signed and numbered in limited runs, and as such are exempt from sales tax in the state of Rhode Island.  Shipping can be arranged at an additional cost.
+Prints come matted in a white mat to fit a frame the next size up (for instance, a matted 8" × 10" print would go in an 11" × 14" frame).  The print size includes a 1/2 inch margin, so for example, the printed area of an 8" × 10" print is actually 7" × 9".  Framed prints come in a basic black gallery frame.  My prints are each hand-signed and numbered in limited runs, and as such are exempt from sales tax in the state of Rhode Island.  Shipping can be arranged at an additional cost.
