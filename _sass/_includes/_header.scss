@@ -42,6 +42,8 @@
 	letter-spacing: $sitetitle-spacing;
 	line-height: 1;
 	color: $text-dark-color;
+    display: block;
+    max-width: 270px;
 
 	&:hover {
 		color: $accent-color;
@@ -49,10 +51,12 @@
 
 	@include mq(tabletp) {
 		font-size: $sitetitle-medium;
+        max-width: 380x;
 	}
 
 	@include mq(laptop) {
 		font-size: $sitetitle-large;
+        max-width: 500px;
 	}
 }
 
