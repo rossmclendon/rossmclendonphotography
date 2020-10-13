@@ -20,7 +20,8 @@ These are images that are available cropped to standard sizes.
 
 ### Panoramic Prints
 Panoramas are a feast for the eyes containing incredible amounts of detail.
-<div class="gallery" data-columns="1">
+
+<div class="gallery" data-columns="2">
 {% for image in site.static_files %}
     {% if image.path contains 'images/prints/panorama' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
@@ -35,13 +36,13 @@ My prints are each hand-signed and numbered in limited runs, and as such are exe
 
 ### Paper Prints
 
-| Size       |  Matted | Framed  |
-|------------|:-------:|:-------:|
-| 5" × 7"    |   $40   |   $60   |
-| 8" × 10"   |   $75   |  $100   |
-| 11" × 14"  |  $125   |  $185   |
-| 16" × 20"  |  $250   |  $350   |
-| Panoramas  | Inquire | Inquire |
+| Size | Matted | Framed |
+|:-:|:-:|:-:|
+| 5 × 7 | $40 | $60 |
+| 8 × 10 | $75 | $100 |
+| 11 × 14 | $125 | $185 |
+| 16 × 20 | $250 | $350 |
+| Panoramas | Inquire | Inquire |
 
 Prints on paper come matted in a white mat to fit a frame the next size up (for instance, a matted 8" × 10" print would go in an 11" × 14" frame).  The print size includes a 1/2 inch margin, so for example, the printed area of an 8" × 10" print is actually 7" × 9".  Framed prints come in a standard black gallery frame.
 
