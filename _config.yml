@@ -13,6 +13,9 @@ collections:
   portfolios:
     output: true
     permalink: /portfolio/:slug
+  sessions:
+    output: true
+    permalink: /sessions/:slug
 
 defaults:
   -
@@ -38,6 +41,12 @@ defaults:
       type: "portfolios"
     values:
       layout: "portfolio"
+  -
+    scope:
+      path: ""
+      type: "sessions"
+    values:
+      layout: "session"
 
 markdown: kramdown
 
