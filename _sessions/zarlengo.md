@@ -2,10 +2,10 @@
 title: 'Zarlengo Session'
 date: 2020-10-24 10:00:00
 description: Family Session with Zerlengos at King/Benson Preserve
-featured_image: '/images/sessions/2020-10-24_Zarlengo/ZarlengoEdits-17.jpg'
+featured_image: '/images/sessions/2020-10-24_Zarlengo/ZarlengoEdits-14.jpg'
 ---
 
-![]({{ site.baseurl }}/images/sessions/2020-10-24_Zarlengo/ZarlengoEdits-17.jpg)
+![]({{ site.baseurl }}/images/sessions/2020-10-24_Zarlengo/ZarlengoEdits-14.jpg)
 
 The Zarlengo Family at King/Benson Preserve
 
