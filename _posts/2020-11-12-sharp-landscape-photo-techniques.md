@@ -8,10 +8,10 @@ Follow these rules to generally get sharp landscape images.  Understand the idea
 
 ### 1. Use Support
 Shoot on a tripod, preferably without extending the center column if the tripod has one.
-### 2. Focus
+### 2. Use Manual Focus
 Use manual focus, setting focus using live view zoomed in to 10x magnification.  Focus on your subject.  Do *not* just turn the lens focus all the way to its farthest extent, as this will focus *past* infinity on most lenses and cause everything to be blurry.  Spend some time going back and forth until you're confident you have things in the best focus possible.  Regularly re-check focus if you move the camera or if it's hot or cold, as this can cause the lens to expand/contract.  Review your focus by zooming into the captured image in live view after you've taken it.
-### 3. Stabilization
-Turn off lens stabilization if your lens has it.
+### 3. Turn Stabilization Off
+Turn off lens stabilization if your lens has it when you're shooting on a tripod.  The stabilizer can move slightly during the exposure which will actually introduce blur when your camera isn't moving.  There are a few exceptions, however.  If you're in a situation where there's a lot of wind buffeting your camera and making it shake, or you're on a surface like a bridge that might vibrate, it's probably better to leave it on.
 ### 4. Use Live View
 Shoot photos in live view mode so that the mirror stays locked up (otherwise the mirror flipping up will make the camera shake and introduce blurriness).  Basically, only use your viewfinder to scout framings and compositions, everything else should generally be in live view.
 ### 5. Don't Shake the Camera
