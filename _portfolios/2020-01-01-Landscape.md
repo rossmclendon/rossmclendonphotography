@@ -3,10 +3,10 @@ title: 'Landscape'
 subtitle: 'Beauty of the created and constructed'
 date: 2018-06-30 00:00:00
 description: Beauty of the created and constructed
-featured_image: '/images/portfolio/landscape/ConimicutMoonrise_1500.jpg'
+featured_image: '/images/portfolio/landscape/Conimicut_Pink_Moon.jpg'
 ---
 
-![]({{ site.baseurl }}/images/portfolio/landscape/OldStoneChurchPanorama_3000.jpg)
+![]({{ site.baseurl }}/images/portfolio/landscape/Old_Stone_Church_Autumnal_Panorama.jpg)
 
 More of a personal passion, and largely how I developed my photogrpahy - I love to seek out and capture beautiful moments and scenes in the world around me.
 
