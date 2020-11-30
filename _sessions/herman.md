@@ -2,6 +2,8 @@
 title: 'Hermans at Roger Williams Park'
 date: 2020-10-24 16:00:00
 description: Family Session with The Hermans at Roger Williams Park
+search: exclude
+sitemap: false
 featured_image: '/images/sessions/2020-10-24_Herman/Hermans-2.jpg'
 ---
 

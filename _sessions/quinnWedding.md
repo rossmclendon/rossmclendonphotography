@@ -2,6 +2,8 @@
 title: 'Ian and Sarah Quinn Wedding'
 date: 2020-09-12 16:00:00
 description: Ian and Sarah Wedding Album
+search: exclude
+sitemap: false
 featured_image: '/images/sessions/2020-09-12_QuinnWedding/IanAndSarahWedding-256.jpg'
 ---
 

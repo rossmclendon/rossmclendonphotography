@@ -47,6 +47,7 @@ defaults:
       type: "sessions"
     values:
       layout: "session"
+      sitemap: false
 
 markdown: kramdown
 
