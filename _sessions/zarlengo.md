@@ -4,6 +4,7 @@ date: 2020-10-24 10:00:00
 description: Family Session with Zerlengos at King/Benson Preserve
 search: exclude
 sitemap: false
+noindex: true
 featured_image: '/images/sessions/2020-10-24_Zarlengo/ZarlengoEdits-14.jpg'
 ---
 

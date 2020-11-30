@@ -57,11 +57,17 @@
 	<!-- Analytics Code -->
 	{{ site.data.settings.advanced_settings.analytics_code }}
 	{% endif %}
+    
+    {% if page.noindex %}
+    <meta name="robots" content="noindex"/>
+    {% endif %}
 
 	{% if site.data.settings.advanced_settings.header_js %}
 	<!-- Extra Header JS Code -->
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
+    
+    
 	
 </head>
 
