@@ -12,7 +12,7 @@ featured_image: '/images/sessions/2020-09-12_QuinnWedding/IanAndSarahWedding-256
 
 Ian and Sarah become the Quinns.
 
-<a href="https://1drv.ms/u/s!Aq9RMRjRsCDYgYB0DK72bMucz8msGg?e=eofbup" download>Full Resolution Images</a>
+<a href="https://www.amazon.com/photos/shared/q66sukaVRXSk4SYG6p3XUA.O0lT7_WOqBtchO4MMBvD8i" download>Full Resolution Images</a>
 
 <div class="gallery" data-columns="3">
 {% for i in (1..284) %}
