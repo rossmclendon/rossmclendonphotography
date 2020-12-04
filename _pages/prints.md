@@ -34,18 +34,18 @@ If there is an image from my Instagram or Facebook feed you're intersted in and 
 ## Pricing
 My prints are each hand-signed and numbered in limited runs, and as such are exempt from sales tax in the state of Rhode Island.  Shipping can be arranged at an additional cost.
 
+### Sizes
+
+| Size | Matted | Framed | Metal |
+|:-:|:-:|:-:|:-:|
+| 5 × 7 | $40 | $60 | - |
+| 8 × 10 | $75 | $100 | $200 |
+| 11 × 14 | $125 | $185 | $300 |
+| 16 × 20 | $250 | $350 | $450 |
+| Panoramas | Inquire | Inquire | Inquire |
+
 ### Paper Prints
-
-| Size | Matted | Framed |
-|:-:|:-:|:-:|
-| 5 × 7 | $40 | $60 |
-| 8 × 10 | $75 | $100 |
-| 11 × 14 | $125 | $185 |
-| 16 × 20 | $250 | $350 |
-| Panoramas | Inquire | Inquire |
-
-Prints on paper come matted in a white mat to fit a frame the next size up (for instance, a matted 8" × 10" print would go in an 11" × 14" frame).  The print size includes a 1/2 inch margin, so for example, the printed area of an 8" × 10" print is actually 7" × 9".  Framed prints come in a standard black gallery frame.
+Prints on paper come matted in a white mat to fit a frame the next size up (for instance, a matted 8" × 10" print would go in an 11" × 14" frame).  The print size includes a 1/2 inch margin, so for example, the printed area of an 8" × 10" print is actually 7" × 9".  The print number, title, and the signature are included in the margin.  Framed prints come in a standard black gallery frame.
 
 ### Metal Prints
-
-Metal Prints are offered in 16"x20" for $500 and come without frame, ready to be mounted on your wall.
+Metal prints come at the listed size with the printed area extending all the way to the edge with rounded corners, are signed and numbered on the back, and include a hidden metal frame for hanging on the back such that they will sit about 3/4-1" away from the wall for a modern, minimalist aesthetic.
