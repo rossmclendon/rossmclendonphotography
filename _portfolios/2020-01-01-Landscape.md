@@ -57,6 +57,7 @@ Here are some examples of my landscape imagery.  Inquire about signed, limited p
 
 ## Timelapse
 <iframe src="https://player.vimeo.com/video/441497725" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+Music by [Nick Box Music](http://www.nickboxmusic.com)
 
 <!--<div class="gallery" data-columns="3">
 {% for image in site.static_files %}
