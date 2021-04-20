@@ -57,7 +57,6 @@ Here are some examples of my landscape imagery.  Inquire about signed, limited p
 
 ## Timelapse
 <iframe src="https://player.vimeo.com/video/441497725" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/441497725">Bridge to Neowise</a> from <a href="https://vimeo.com/mclendon">Ross McLendon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <!--<div class="gallery" data-columns="3">
 {% for image in site.static_files %}
