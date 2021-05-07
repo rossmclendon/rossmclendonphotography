@@ -1,13 +1,14 @@
 ---
-title: 'Images from Roger Williams Park'
+title: 'Roger Williams Park'
 date: 2020-01-01 16:00:00
-description: Compilation of images taken at Roger Williams Park
-featured_image: '/images/prints/panorama/Autumn_Reflections_at_the_Bandstand.jpg'
+description: Compilation of images taken at Roger Williams Park in Providence
+featured_image: '/images/prints/standard/Iron_Footbridge.jpg'
 ---
 
 ![]({{ site.baseurl }}/images/prints/panorama/Autumn_Reflections_at_the_Bandstand.jpg)
 
 A collection of photos from Roger Williams Park
+
 <div class="gallery" data-columns="3">
     <img src="{{ site.baseurl }}/images/prints/standard/Autumn_Reflections_at_the_Temple_of_Music.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Bandstand_in_Autumn.jpg" alt="image" />
