@@ -10,6 +10,8 @@ menu_settings:
   menu_items:
     - title: 'Portfolio'
       url: '/portfolio/'
+    - title: 'Compilation'
+      url: '/compilation/'
     - title: 'About'
       url: '/about'
     - title: 'Services'
