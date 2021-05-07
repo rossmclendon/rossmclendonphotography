@@ -15,7 +15,7 @@ collections:
     permalink: /portfolio/:slug
   compilations:
     output: true
-    permalink: /compilation/:slug
+    permalink: /collection/:slug
   sessions:
     output: true
     permalink: /sessions/:slug
