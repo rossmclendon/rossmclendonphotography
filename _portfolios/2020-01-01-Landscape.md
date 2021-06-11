@@ -15,6 +15,7 @@ Here are some examples of my landscape imagery.  Inquire about signed, limited p
 <div class="gallery" data-columns="3">
     <img src="{{ site.baseurl }}/images/prints/standard/Capitol_Moonset.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Dome_with_Moon.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/prints/standard/Independent_Man_Ecliplse.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Conimicut_Pink_Moon.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Sakonnet_Moonset.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Dutch_Island_Moonrise.jpg" alt="image" />
