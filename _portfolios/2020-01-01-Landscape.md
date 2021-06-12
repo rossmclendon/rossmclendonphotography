@@ -35,7 +35,6 @@ Here are some examples of my landscape imagery.  Inquire about signed, limited p
     <img src="{{ site.baseurl }}/images/prints/standard/Autumn_Reflections_at_the_Temple_of_Music.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Mount_Hope_Sunrise.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Spring_Green_Sunset.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/prints/standard/Pine_Sillhouette.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/La_Tour_Eiffel_en_Automne.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Torino_Sunrise.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Torre_del_Sacro_Monte_Sunrise.jpg" alt="image" />
