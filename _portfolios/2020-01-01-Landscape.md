@@ -18,7 +18,7 @@ Here are some examples of my landscape imagery.  Inquire about signed, limited p
     <img src="{{ site.baseurl }}/images/prints/standard/Independent_Man_Ecliplse.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Conimicut_Pink_Moon.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Sakonnet_Moonset.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/prints/standard/Dutch_Island_Moonrise.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/prints/standard/Dutch_Island_Moonrise_II.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/NEOWISE_Over_Dutch_Island_Light.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Bridge_To_NEOWISE.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Purple_and_Pink.jpg" alt="image" />
