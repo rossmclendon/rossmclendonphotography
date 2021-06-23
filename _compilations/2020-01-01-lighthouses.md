@@ -7,7 +7,7 @@ featured_image: '/images/prints/standard/Dutch_Island_Moonrise_II.jpg'
 
 ![]({{ site.baseurl }}/images/prints/standard/Portland_Head_Sunest.jpg)
 
-A collection of photos of lighthouses
+A collection of photos of lighthouses.
 
 <div class="gallery" data-columns="3">
     <img src="{{ site.baseurl }}/images/prints/standard/Conimicut_Pink_Moon.jpg" alt="image" />
