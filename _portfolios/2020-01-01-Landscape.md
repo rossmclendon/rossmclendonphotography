@@ -10,13 +10,14 @@ featured_image: '/images/portfolio/landscape/Conimicut_Pink_Moon.jpg'
 
 More of a personal passion, and largely how I developed my photogrpahy - I love to seek out and capture beautiful moments and scenes in the world around me.
 
-Here are some examples of my landscape imagery.  Inquire about signed, limited prints on the [prints]({{ site.baseurl }}/prints) page.
+Here are some examples of my landscape imagery.  Learn more about signed, limited prints on the [prints]({{ site.baseurl }}/prints) page.
 
 <div class="gallery" data-columns="3">
     <img src="{{ site.baseurl }}/images/prints/standard/Capitol_Moonset.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Dome_with_Moon.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Statehouse_Eclipse.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Conimicut_Pink_Moon.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/prints/standard/Moon_On_The_Sakonnet_Focal.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Sakonnet_Moonset.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Dutch_Island_Moonrise_II.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/NEOWISE_Over_Dutch_Island_Light.jpg" alt="image" />
