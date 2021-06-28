@@ -7,7 +7,7 @@ featured_image: '/images/prints/standard/Iron_Footbridge.jpg'
 
 ![]({{ site.baseurl }}/images/prints/panorama/Autumn_Reflections_at_the_Bandstand.jpg)
 
-A collection of photos from Roger Williams Park
+A collection of photos from Roger Williams Park.
 
 <div class="gallery" data-columns="3">
     <img src="{{ site.baseurl }}/images/prints/standard/Autumn_Reflections_at_the_Temple_of_Music.jpg" alt="image" />
