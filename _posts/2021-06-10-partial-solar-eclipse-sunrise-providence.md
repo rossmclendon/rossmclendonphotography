@@ -12,8 +12,10 @@ In early May I saw a news article about an annular solar eclipse that was going 
 
 As I [looked into it](https://www.timeanddate.com/eclipse/in/usa/providence?iso=20210610), I learned that while the annular "ring of fire" wouldn't be visible from Rhode Island, the sun would be still be eclipsed more than 80% here, which is pretty significant.  More than that, though - I discovered the sun would be *rising* while significantly eclipsed and the maximum extent of the eclipse would be reached shortly thereafter.  Immediately, this went from something that I'd saunter outside to go look at and maybe photograph with my leftover eclipse glasses and filter to a major photographic event.  You see, when the sun is close to the horizon, it lends itself to being photographed with foreground subjects - of which we have *many* in Rhode Island.  This would be a once-in-a-lifetime event - the next time the sun will be eclipsed to this extent at sunrise as viewed in Rhode Island is the total eclipse that will be visible here in 2079, at which point I very likely won't be running around taking photos.
 
-The prospect of a crescent sun at sunrise immediately brought to mind one of the more impressive [eclipse images](https://www.instagram.com/p/B6iHxrTg4Pd) I've seen by [Joshua Cripps](https://www.joshuacripps.com/), a talented landscape photographer from the United States.
-
+The prospect of a crescent sun at sunrise immediately brought to mind one of the more impressive eclipse images I've seen by [Joshua Cripps](https://www.joshuacripps.com/), a talented landscape photographer from the United States who kindly gave me permission to include his inspiring image in this blog.
+    
+[![Copyright Joshua Cripps]({{ site.baseurl }}/images/blog/2021-06-10-partial-solar-eclipse-sunrise-providence/CrippsEclipseInspiration_CopyrightJoshuaCripps.jpg)](https://www.joshuacripps.com/)
+*©Joshua Cripps, used with permisssion*
 
 <!--{::options parse_block_html="false" /}
 <br />
