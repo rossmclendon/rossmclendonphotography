@@ -1,6 +1,6 @@
 ---
 title: 'Emily Brandenburg Kennedy Headshots'
-date: 2020-10-24 10:00:00
+date: 2021-08-08 10:00:00
 description: Headshots for Emily
 search: exclude
 sitemap: false

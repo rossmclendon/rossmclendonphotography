@@ -1,6 +1,6 @@
 ---
 title: 'Brandenburg Anniversary Session'
-date: 2020-10-24 10:00:00
+date: 2021-08-08 10:00:00
 description: Brandenburg 50th Anniversary Session at Rocky Point Park
 search: exclude
 sitemap: false
