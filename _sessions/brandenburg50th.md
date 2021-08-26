@@ -15,7 +15,7 @@ The Brandenburg 50th Anniversary Session at Rocky Point Park.
 <a href="https://www.amazon.com/photos/shared/7E1BTYLRRPKlelpK3VnSdQ.ZiEtduqvvLCPPE6seGJWhX" download>Full Resolution Images</a>
 
 <div class="gallery" data-columns="3">
-{% for i in (1..245) %}
+{% for i in (1..233) %}
     <img src="{{ site.baseurl }}/images/sessions/2021-08-08_BrandenburgAnniversary/Brandenburg50th-{{ i }}.jpg" alt="image" />
 {% endfor %}
 </div>
