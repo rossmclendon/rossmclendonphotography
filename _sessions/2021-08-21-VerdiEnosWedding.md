@@ -12,7 +12,7 @@ featured_image: '/images/sessions/2021-08-22_VerdiEnosWedding/VerdiEnosWedding-2
 
 Joe and Laura become the Verdis.
 
-<a href="https://www.amazon.com/photos/shared/ZLfvQyM3SGWJuMxdAy7dvQ.D920b15KmykdadR72Infgg" download>Full Resolution Images</a>
+<a href="https://www.amazon.com/photos/shared/jce4ckkGRli_y5-_hW0Llg.XYGur0gn1AH8oMcaJMFvzT" download>Full Resolution Images</a>
 
 <div class="gallery" data-columns="3">
 {% for i in (1..496) %}
