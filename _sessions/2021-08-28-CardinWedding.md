@@ -15,7 +15,7 @@ Joshua and Casey become the Cardins.
 <a href="https://www.amazon.com/photos/shared/gqfqsg1gTSO21b6ZB_m_0A.2zmIAZV-80snLLHpKjQ7YY" download>Full Resolution Images</a>
 
 <div class="gallery" data-columns="3">
-{% for i in (1..603) %}
+{% for i in (1..1201) %}
     <img src="{{ site.baseurl }}/images/sessions/2021-08-28_CardinWedding/CardinWedding-{{ i }}.jpg" alt="image" />
 {% endfor %}
 </div>
