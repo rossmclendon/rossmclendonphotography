@@ -23,9 +23,9 @@ A collection of photos from Roger Williams Park.
     <img src="{{ site.baseurl }}/images/prints/standard/Japanese_Gardens_in_Spring.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Miantunomu_Bridge_in_Autumn.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/blog/2021-02-07-roger-williams-snow-storm/SnowingOnTheMiantunomuBridge.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/extra/Miantunomi_Bridge_After_Snow.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/extra/Iron_Bridge_Reflections_Winter.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/extra/Roger_Williams_Skier.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/rogerwilliamspark/Miantunomi_Bridge_After_Snow.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/rogerwilliamspark/Iron_Bridge_Reflections_Winter.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/rogerwilliamspark/Roger_Williams_Skier.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Spring_Reflections_at_the_Bandstand.jpg" alt="image" />
 </div>
 <div class="gallery" data-columns="2">
@@ -35,6 +35,6 @@ A collection of photos from Roger Williams Park.
     <img src="{{ site.baseurl }}/images/prints/panorama/Dalrymple_Boat_House_In_Falling_Snow.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/blog/2021-02-07-roger-williams-snow-storm/DalrympleBoathousePanoramaSnowingLongerShutter.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/blog/2021-02-07-roger-williams-snow-storm/JapaneseGardenDuringSnow.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/extra/Dalrymple_Boathouse_After_Snow.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/extra/Japanese_Gardens_After_Snow.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/rogerwilliamspark/Dalrymple_Boathouse_After_Snow.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/rogerwilliamspark/Japanese_Gardens_After_Snow.jpg" alt="image" />
 </div>

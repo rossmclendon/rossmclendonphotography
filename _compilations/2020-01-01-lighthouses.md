@@ -21,4 +21,12 @@ A collection of photos of lighthouses.
     <img src="{{ site.baseurl }}/images/prints/standard/NEOWISE_Over_Dutch_Island_Light.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Portland_Head_Sunest.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Starry_Night_over_Watch_Hill_Light.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/lighthouses/RI_LighthouseCruise-PlumBeachLight-1.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/lighthouses/RI_LighthouseCruise-PlumBeachLight-2.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/lighthouses/RI_LighthouseCruise-DutchIslandLight.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/lighthouses/RI_LighthouseCruise-Beavertail.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/lighthouses/RI_LighthouseCruise-CastleHill-1.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/lighthouses/RI_LighthouseCruise-CastleHill-2.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/lighthouses/RI_LighthouseCruise-RoseIslandLight.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/lighthouses/SakonnetLightAfterSunrise.jpg" alt="image" />
 </div>
