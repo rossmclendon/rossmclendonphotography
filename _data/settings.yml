@@ -44,6 +44,7 @@ social_settings:
   facebook_url: 'https://www.facebook.com/rossmclendonphoto'
   twitter_url: ''
   instagram_url: 'https://www.instagram.com/rossmclendonphoto/'
+  rss_url: '/feed.xml'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
