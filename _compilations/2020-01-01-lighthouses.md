@@ -12,6 +12,7 @@ A collection of photos of lighthouses.
 <div class="gallery" data-columns="3">
     <img src="{{ site.baseurl }}/images/prints/standard/Moon_On_The_Sakonnet_Focal.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Sakonnet_Moonset.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/prints/standard/Moonset_Reflection_at_Hog_Island_Light.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Conimicut_Pink_Moon.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Signals.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Bridge_To_NEOWISE.jpg" alt="image" />

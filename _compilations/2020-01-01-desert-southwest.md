@@ -7,7 +7,7 @@ featured_image: '/images/prints/standard/Horseshoe_Bend_Sunset.jpg'
 
 ![]({{ site.baseurl }}/images/prints/standard/Horseshoe_Bend_Sunset.jpg)
 
-Images from the desert southwest.
+Images from the American Desert Southwest.
 
 <div class="gallery" data-columns="3">
     <img src="{{ site.baseurl }}/images/prints/standard/Bright_Angel_Views.jpg" alt="image" />
