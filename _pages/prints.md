@@ -15,7 +15,7 @@ Prints on paper come matted in a white mat to fit a frame the next standard size
 ### Framed Prints
 A matted print mounted into a basic black gallery frame, ready to hang on your wall.
 
-<img src="{{ site.baseurl }}/images/prints/FramedPrint_5x7.jpg" width="70%">
+<img src="{{ site.baseurl }}/images/prints/FramedPrintExample.jpg" width="70%">
 
 ### Metal Prints
 Metal prints come at the listed size with the printed area extending all the way to the edge with rounded corners, are signed and numbered on the back, and include a hidden metal frame for hanging on the back such that they will sit about 3/4-1" away from the wall for a modern, minimalist aesthetic.
