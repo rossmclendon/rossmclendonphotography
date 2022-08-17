@@ -31,4 +31,6 @@ A collection of photos of lighthouses.
     <img src="{{ site.baseurl }}/images/collections/lighthouses/RI_LighthouseCruise-RoseIslandLight.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/lighthouses/SakonnetLightAfterSunrise.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/blog/2021-12-14-geminids-at-castle-hill-lighthouse/Geminids2021-4.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/weather/Conimicut_Henri_1.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/weather/Conimicut_Henri_2.jpg" alt="image" />
 </div>
