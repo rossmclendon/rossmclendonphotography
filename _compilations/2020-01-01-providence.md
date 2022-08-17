@@ -2,7 +2,7 @@
 title: 'Providence'
 date: 2020-01-01 16:00:00
 description: Compilation of images of Providence
-featured_image: '/images/prints/standard/Double_Bolts_Over_Providence.jpg'
+featured_image: '/images/prints/panorama/Prospect_Terrace_Autumn_Snow_Sunset.jpg'
 ---
 
 ![]({{ site.baseurl }}/images/prints/panorama/Prospect_Terrace_Autumn_Snow_Sunset.jpg)
@@ -14,6 +14,7 @@ A collection of photos captured in Providence.
     <img src="{{ site.baseurl }}/images/prints/standard/Capitol_Moonset.jpg"  alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Dome_with_Moon.jpg"  alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Double_Bolts_Over_Providence.jpg"  alt="image" />
+    <img src="{{ site.baseurl }}/images/prints/standard/Providence_Power_And_Lightning.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Statehouse_Eclipse.jpg"  alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Independent_Man_Eclipse.jpg"  alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Independent_Man_in_Winter.jpg"  alt="image" />

@@ -47,6 +47,8 @@ Here are some examples of my landscape imagery.  Learn more about signed, limite
     <img src="{{ site.baseurl }}/images/prints/standard/Miantunomu_Bridge_in_Autumn.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/First_Light_on_the_Diamond.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Monte_Bianco_in_the_Valle_di_Cogne.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/prints/standard/Double_Bolts_Over_Providence.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/prints/standard/Providence_Power_And_Lightning.jpg" alt="image" />
 </div>
 
 ## Panorama
