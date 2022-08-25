@@ -67,12 +67,12 @@ Images from the American Desert Southwest.
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-51.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-52.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-53.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-54.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-55.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-56.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-57.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-58.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-59.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-60.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-61.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-62.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-63.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-64.jpg" alt="image" />
@@ -127,12 +127,12 @@ Images from the American Desert Southwest.
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-113.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-114.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-115.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-116.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-117.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-118.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-119.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-120.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-121.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-122.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-123.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-124.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-125.jpg" alt="image" />
@@ -146,22 +146,20 @@ Images from the American Desert Southwest.
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-133.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-134.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-135.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-136.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-137.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-138.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-139.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-140.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-141.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-142.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-144.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-145.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-146.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-147.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-148.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-149.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-150.jpg" alt="image" />
-    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapes-151.jpg" alt="image" />
 </div>
-<!--<div class="gallery" data-columns="2">
-    <img src="{{ site.baseurl }}/images/prints/panorama/Artists_Bluff_Autumn.jpg" alt="image" />
-</div>-->
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapesPanos-1.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapesPanos-2.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapesPanos-3.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapesPanos-4.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapesPanos-5.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapesPanos-6.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapesPanos-7.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapesPanos-8.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/collections/desertsouthwest/2021_SouthwestLandscapesPanos-9.jpg" alt="image" />
+</div>
