@@ -29,6 +29,7 @@ Here are some examples of my landscape imagery.  Learn more about signed, limite
     <img src="{{ site.baseurl }}/images/prints/standard/Snowy_Statehouse.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Statehouse_Autumn_Path.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Statehouse_in_Autumn.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/prints/standard/Statehouse_Long_Bolt.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Bridges_To_Blossoms.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Iron_Footbridge.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Iron_Footridge_In_Snow.jpg" alt="image" />
@@ -49,6 +50,7 @@ Here are some examples of my landscape imagery.  Learn more about signed, limite
     <img src="{{ site.baseurl }}/images/prints/standard/Monte_Bianco_in_the_Valle_di_Cogne.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Double_Bolts_Over_Providence.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Providence_Power_And_Lightning.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/prints/standard/Four_Bolts_And_The_Statehouse.jpg" alt="image" />
 </div>
 
 ## Panorama
