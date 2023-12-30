@@ -17,6 +17,7 @@ Here are some examples of my landscape imagery.  Learn more about signed, limite
     <img src="{{ site.baseurl }}/images/prints/standard/Dome_with_Moon.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Statehouse_Eclipse.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Independent_Man_Eclipse.jpg" alt="image" />
+    <img src="{{ site.baseurl }}/images/prints/standard/Once_in_a_Blue_Moon.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Conimicut_Pink_Moon.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Moon_On_The_Sakonnet_Focal.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Sakonnet_Moonset.jpg" alt="image" />
