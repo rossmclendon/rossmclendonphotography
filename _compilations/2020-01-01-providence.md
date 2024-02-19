@@ -17,6 +17,7 @@ A collection of photos captured in Providence.
     <img src="{{ site.baseurl }}/images/prints/standard/Providence_Power_And_Lightning.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Statehouse_Eclipse.jpg"  alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Independent_Man_Eclipse.jpg"  alt="image" />
+    <img src="{{ site.baseurl }}/images/prints/standard/Once_in_a_Blue_Moon.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Independent_Man_in_Winter.jpg"  alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Independent_Man_in_Autumn.jpg"  alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Independent_Man_in_Spring.jpg"  alt="image" />
@@ -28,7 +29,6 @@ A collection of photos captured in Providence.
     <img src="{{ site.baseurl }}/images/prints/standard/Statehouse_Autumn_Path.jpg"  alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Sunset_Over_Providence.jpg"  alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Statehouse_in_Autumn.jpg"  alt="image" />
-    <img src="{{ site.baseurl }}/images/prints/standard/Once_in_a_Blue_Moon.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Autumn_Reflections_at_the_Temple_of_Music.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Bandstand_in_Autumn.jpg" alt="image" />
     <img src="{{ site.baseurl }}/images/prints/standard/Bridges_To_Blossoms.jpg" alt="image" />

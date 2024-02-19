@@ -62,10 +62,6 @@ Here are some examples of my landscape imagery.  Learn more about signed, limite
     <img src="{{ site.baseurl }}/images/prints/panorama/Pier_Illumination.jpg" alt="image" />
 </div>
 
-## Timelapse
-<iframe src="https://player.vimeo.com/video/441497725" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-Music by [Nick Box Music](http://www.nickboxmusic.com)
-
 <!--<div class="gallery" data-columns="3">
 {% for image in site.static_files %}
     {% if image.path contains 'images/portfolio/landscape' %}
