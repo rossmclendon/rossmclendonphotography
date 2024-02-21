@@ -28,9 +28,17 @@ If you're set on photographing the eclipse, here are nuggets I've gathered from 
 ## Equipment
 You can get away with just a camera, lens, and filter for the partial phases, but you'll be helped by having other things.
 
-### Things To Consider
+### Focal Lengths
+This depends on the phase and what you're focusing on, but in general you'll want long lenses.  The sun is small in the sky.  However, the corona is much larger than the bright photosphere that the moon will cover up, so if you're planning to capture the corona (and you should be planning to capture the corona), you'll likely want something quite a bit wider than what makes a good filtered-solar-disk image.
+
+There's also a broader story to tell about experiencing the eclipse.  Wide angle is useful for that - especially since totality will be very high in the sky for most of the path (i.e. you'll need wide lens to show both foreground *and* the eclipsed sun).
+
+### Video
+Video can make a neat medium for much of what happens in an eclipse.  In 2017 we directed a video camera at our group to capture our reaction to totality, and it's a video I still enjoy re-watching.
+
+### Other Equipment To Consider
  - Get a solid tripod to get sharp images at high magnification.
- - Things like tilting screens or angle finders for your camera are very helpful.
+ - Things like tilting screens or angle finders for your camera are very helpful when it's pointed high in the sky.
  - You need some sort of remote shutter, as pressing your shutter button will shake your camera.
  
 ### Dealing with the Rotating Earth
@@ -52,7 +60,18 @@ The partial phases of the eclipse run from C1 to C2, and from C3 to C4.  If you'
 
 There's a good bit to say here, but for now, I'll just reiterate the important safety advice that **you *must* have a proper solar filter as the *first* optical element in your camera setup** if you're using any sort of long focal length.  Even at wide angles, you might put your equipement at risk if you leave the sun in frame for a longer period of time.  Blindness and equipment damage can happen if you fail to follow this guidance.  Rear filters are no good because the lens will concentrate solar energy on them which will be dissipated *inside* your equipment, likely burning or melting through the filter.  Similarly, regular ND filters - even very dark ones like 10- or 15-stop NDs - that aren't designed for solar viewing may allows non-visible spectrum through like IR and UV that you can't see but which can be extremely damaging.  If you doubt the possibility for equipment damage, have a look at [Lens Rentals' blog article from after the 2017 eclipse](https://www.lensrentals.com/blog/2017/09/rental-camera-gear-destroyed-by-the-solar-eclipse-of-2017/).  The lead picture there of a $10,000+ Canon EF 600mm f4L IS ii with melted iris blades should give any photographer pause.
 
-For partial phases, you want as long a focal length as you can get as the only interesting part through a solar filter is the disk of the photosphere (the bright part of the sun we can usually see).  The sun is very small in the sky - about 0.5º or 30 arc-minutes across.  Sharpness of your images will depend on your lens, how well you focus, and atmospheric distortion (called *seeing* in the astronomy world).  With any solar filter, you'll be able to see features like sunspots, which are likely to be present on April 8 since we're in a solar maximum.
+For partial phases, you want as long a focal length as you can get as the only interesting part through a solar filter is the disk of the photosphere (the bright part of the sun we can usually see).  The sun is very small in the sky - about 0.5º or 30 arc-minutes across.  Sharpness of your images will depend on your lens, how well you focus, and atmospheric distortion (called *seeing* in the astronomy world).  With any solar filter, you'll be able to see features like sunspots, which are likely to be present on April 8 since we're in a solar maximum.  Different solar filters will give the sun different colors - some white, some yellow/orange.  There are glass filters and film filters of various materials out there which do the job of reducing the solar intenisty to a safe level.  Here's an example with a [Thousand Oaks "Full Aperture" filter](https://thousandoaksoptical.com/shop/solar-filters/full-aperture-solarlite-polymer/) on an old manual 500mm f4.5 lens w/ a 1.4x teleconverter.  The shutter speed was 1/40s, ISO was 400, and I can't exactly recall the f-stop but I *think* it was maybe f/8 (manual lenses don't record their f-stop with the exif data). 
+
+![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/sun_through_filter.jpg)
+
+Of the various filter options out there, a few thoughts to consider...
+
+ - Thin film filters will be more forgiving optically when put in front of telephoto optics.
+ - Glass filters are more robust and easier to clean without damaging them.
+ - You'll need to quickly remove your filter at the start of totality and quickly replace it at the end, which can be challenging with threaded filters.
+ - It's possible to purchase solar filter material in bulk and fashion your own filter.
+ 
+In 2017, I purchased a simple [cardboard full-aperture filter](https://www.bhphotovideo.com/c/buy/universal-solar-filters/).  It performed well and was quite affordable.
 
 #### H-Alpha Filtering
 If you want to spice things up, you could consider investing in H-alpha equipment.  These are special filters designed to transmit very specific frequencies of light.  While a regular solar filter blocks almost all of the light coming into the camera/telescope, H-α blocks all light except for a very narrow band with a wavelength of 656.28 nm - think of just letting in a tiny slice of the rainbow.  This light comes from the sun's chromosphere and contains a great deal of detail that is normally washed out by the other spectra of light emitted by the sun.
@@ -74,10 +93,14 @@ This is the last bit of bright photosphere peeking between mountains and valleys
 ![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse_2017_baileys_beads.jpg)
 
 ##### Prominences
-Once you take the solar filter off your camera, you'll see prominences protruding away from the sun beyond the lunar limb.  Long focal lengths are best for these.
+Once you take the solar filter off your camera, you'll see prominences protruding away from the sun beyond the lunar limb.  Long focal lengths are best for these.  Because they typically only extend a short distance from the sun, they are most visible just after totality starts and just before totality ends
+
+![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse_2017_prominence.jpg)
 
 ##### Earthshine
 While it's not really visible to the unaided eye, long exposures will pick up detail of the moon's surface which is illuminated by light reflected off the earth.
+
+![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse_2017_earthshine.jpg)
 
 ##### The Corona
 This is really why we care about total eclipses.  The sun's corona is always there, but normally invisible to us because it is many times dimmer than the bright photosphere which, along with Rayleigh scattering in the atmosphere, completely washes it out.  It's incredibly beautiful.  It looks different in every eclipse depending on the highly variable magnetic field lines of the sun.  It has extreme variation in brightness as it extends away from the sun.  It extends away from the sun many times the diameter of the photosphere, so to capture it, you'll want a much wider field of view than you'd want for photogrpahing partial phases (or potentially several different fields of view)  I personally have some plans for 2024 based on some imagery I've seen using focal lengths [as wide as 85mm](https://hdr-astrophotography.com/2019-eclipse-large-field-of-view/).
@@ -87,7 +110,7 @@ To the bit of the blog that's probalby most helpful, since you can't practice sh
 <iframe src="https://player.vimeo.com/video/914298640" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## How to Automate
-As The key to following this advice and getting good images of totality is *automation*.  If you can automate the capture of different exposures at different times, then you can enjoy totality while your cameras click away without you having to mess with them during those precious moments.  A few options to consider:
+The key to following my advice in the introduction and getting good images of totality is *automation*.  If you can automate the capture of different exposures at different times, then you can enjoy totality while your cameras click away without you having to mess with them during those precious moments.  A few options to consider:
  - **Intervalometer + Bracketing** - You can set up your camera to shoot bracketed exposures and then drive those with an intervalometer (interval timer) that you start right as totality begins.  This might be the easiest thing, but will make it a little tricky to capture things like Bailey's Beads that need quite different exposures than the corona.
  - [**Solar Eclipse Maestro**](http://xjubier.free.fr/en/site_pages/solar_eclipses/Solar_Eclipse_Maestro_Photography_Software.html) - I used this in 2017, but, apparently some of the libraries that this tool used are no longer supported and so it hasn't been developed for some time.  As a result, support tops out at macOS 10.14.x (Mojave), so unless you have an old Mac lying around you're willing to trust for the eclipse, it's not an option today.
  - [**CaptureEclipse**](https://almadenobservatory.net/CaptureEclipse/) - This is freely avialable on Apple's [App Store](https://apps.apple.com/us/app/captureeclipse/id1567295651) and supports modern MacOS versions.  Rob Hawley created it for his own needs after Solar Eclipse Maestro went out of support and was kind enough to share it.  It only supports (most) Canon cameras, and doesn't allow as fine-grained control as Solar Eclipse Maestro did - there are pre-programmed exposure sequences it runs through for each phase whereas SEM let you specify exactly what exposure you wanted to take when.  It also only supports one camera as best I can tell whereas SEM supported four.  Still, if you're on mac, use Canon, and want a turnkey option, this may be your best choice. 
@@ -96,5 +119,21 @@ As The key to following this advice and getting good images of totality is *auto
 ## Practice
 Practice as much as you can.  Run through any automation you're going to do a few times to make sure you're getting all the exposures you expect to get.  Figure out what happens if a battery dies or a USB cable gets unplugged right before totality.  Does your camera refocus?  Do you have to restart some program?  Have a plan and checklist.  You only get one shot at totality - if you're experimenting and improvising you'll likely not get photos and you'll likely be distrated from enjoying the experience.  The next total eclipse to cross the United States like this won't be unitl 2045.
 
+## Other photography pointers
+ - Turn off image stabilization if you're on a tripod.
+ - At the very least, use a remote shutter release rather than pressing the shutter button on your camera.
+ - It's probably best to use manual focus.  Punch in to 10x in live view to set it.  Note that glass filters might result in slightly different focus and necessitate a re-focus after you take them off at totality (in which case maybe do use autofocus, or use a film filter instead).
+ - Shoot in uncompressed (lossless) raw and use as close to your camera's native ISO as your aperture will allow to get a good shutter speed.  You'll want every bit of dynamic range your camera will give you for the corona, and uncompressed raw formats generally yield somewhat better shadow detail recover than lossy compressed raw formats (and much better than shooting in .jpeg).
+ - Make sure you're shooting with a fast enough shutter speed to freeze the moon and sun, especially if you're shooting very long focal lengths on a static tripod.  This is less of a concern if you're on a tracking mount of some sort.
+ - Make sure to clean your sensors (or have them cleaned) beforehand.  Dust spots can greatly complicate corona HDR post-processing.
+   
 # Other Matters
+*A few things to consider beyond photography.*
+
+## Traffic
+Be ready for extreme traffic jams immediately following the eclipse, especially if you traveled from a population center to get to the path of totality.  Bring along a full tank of gas, some snacks, and plenty of patience, or plan to spend the night before heading out the next day.
+
+![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse_traffic_2017.jpg)
+
+## Deeper Questions
 Whether you photograph this event or not, I hope you enjoy it.  And in the midst of all the beauty and technical photography, don't forget to think about [deeper questions](https://rossmclendon.com/April8EclipsePlanning/#a-deeper-meaning) like *why* the moon blocking the sun is so beautiful.
