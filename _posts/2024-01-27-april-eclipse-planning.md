@@ -70,6 +70,7 @@ There are several different things to watch for during totality.
 
 ##### Bailey's Beads and Diamond Ring
 This is the last bit of bright photosphere peeking between mountains and valleys on the lunar limb (the edge of the moon) at C2.  You also get the same effect on the other side of the lunar disk as the   You should take your **camera** filter off at this point, **but leave your solar glasses on**.  Also, very important - **DO NOT LOOK THROUGH AN OPTICAL VIEWFINDER WHEN PHOTOGRAPHING THIS PHASE WITH AN UNFILTERED CAMERA** - use live view instead.  Any time any part of the photosphere is visible - even the little sliver associated with Bailey's Beads - your eyes need protection to look at it directly.
+
 ![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse_2017_baileys_beads.jpg)
 
 ##### Prominences
@@ -79,7 +80,7 @@ Once you take the solar filter off your camera, you'll see prominences protrudin
 While it's not really visible to the unaided eye, long exposures will pick up detail of the moon's surface which is illuminated by light reflected off the earth.
 
 ##### The Corona
-This is really why we care about total eclipses.  The sun's corona is always there, but normally invisible to us because it is many times dimmer than the bright photosphere which, along with Rayleigh scattering in the atmosphere, completely washes it out.  It's incredibly beautiful.  It looks different in every eclipse depending on the highly variable magnetic field lines of the sun  It has extreme variation in brightness as it extends away from the sun.  It extends away from the sun many times the diameter of the photosphere, so to capture it, you'll want a much wider field of view than you'd want for photogrpahing partial phases (or potentially several different fields of view)  I personally have some plans for 2024 based on some imagery I've seen using focal lengths [as wide as 85mm](https://hdr-astrophotography.com/2019-eclipse-large-field-of-view/).
+This is really why we care about total eclipses.  The sun's corona is always there, but normally invisible to us because it is many times dimmer than the bright photosphere which, along with Rayleigh scattering in the atmosphere, completely washes it out.  It's incredibly beautiful.  It looks different in every eclipse depending on the highly variable magnetic field lines of the sun.  It has extreme variation in brightness as it extends away from the sun.  It extends away from the sun many times the diameter of the photosphere, so to capture it, you'll want a much wider field of view than you'd want for photogrpahing partial phases (or potentially several different fields of view)  I personally have some plans for 2024 based on some imagery I've seen using focal lengths [as wide as 85mm](https://hdr-astrophotography.com/2019-eclipse-large-field-of-view/).
 
 #### Exposures During Totality
 To the bit of the blog that's probalby most helpful, since you can't practice shooting a total eclipse.  The corona is extremely dynamic, very bright toward the center and dimly extending out many times the diameter of the sun's photosphere (the bright part).  I took a bunch of exposures during totality in 2017.  I put them together into a video here:
