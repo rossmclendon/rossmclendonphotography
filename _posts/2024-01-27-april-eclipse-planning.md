@@ -1,7 +1,7 @@
 ---
 title: 'Photographing a Total Solar Eclipse'
 date: 2024-02-19 6:00:00
-description: Planning ahread for the total eclipse of April 8, 2024
+description: Planning ahead for the total eclipse of April 8, 2024
 featured_image: '/images/blog/2024-02-19-photographing-eclipse/august_17_eclipse_composite.jpg'
 ---
 I'll be editing this blog post as time allows with information that's hopefully helpful for folks as we get closer to April 8.
