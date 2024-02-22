@@ -131,6 +131,7 @@ Practice as much as you can.  Run through any automation you're going to do a fe
 This is a huge topic in and of itself.  I'll just refer to a few resources on the topic here.
  - **[The "Pellett" Method](https://www.astropix.com/html/processing/e_comp.html)** - My 2017 image borrowed from this technique.  The linked page inlcudes a good discussion of various methods.
  - **The [work](https://ui.adsabs.harvard.edu/abs/2006CoSka..36..131D/abstract) of M. Druckmüller** - a professor in Slovakia, he and [his daughter](https://www.vut.cz/en/students/final-thesis/detail/69016) have contributed considerably to the topic of corona imagery post-processing
+ - **[Nicolas Lefaudeux](https://hdr-astrophotography.com/solar-eclipses/)** - I greatly admire his work, which he indicates borrows heavily from Druckmüller.
 
 ## Other photography pointers
  - Turn off image stabilization if you're using a tripod.
