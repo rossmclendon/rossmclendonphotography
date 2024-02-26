@@ -117,6 +117,14 @@ This is really why we care about total eclipses.  The sun's corona is always the
 This is the bit of the blog that's probablby most helpful for new solar eclipse photographers since you can't practice shooting a total eclipse until it happens.  The corona is extremely dynamic, very bright toward the center and dimly extending out many times the diameter of the sun's photosphere (the bright part).  I took a bunch of exposures during totality in 2017.  I put them together into a video along with the exposure info.  Each photo here is rendered from Lightroom without any adjustments using a very neutral profile to give the best possible representation of how a given exposure renders the various eclipse detail.
 <iframe src="https://player.vimeo.com/video/914298640" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+Here's a gallery of images with exposure information included.
+
+<div class="gallery" data-columns="4">
+{% for i in (1..44) %}
+    <img src="{{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/exposure-examples/eclipse-totality-with-exposure-{{ i }}.jpg" alt="image" />
+{% endfor %}
+</div>
+
 ## Automation
 The key to following my advice in the introduction and getting good images of totality is *automation*.  If you can automate the capture of different exposures at different times, then you can enjoy totality while your cameras click away without you having to mess with them during those precious moments.  A few options to consider:
  - **Intervalometer + Bracketing** - You can set up your camera to shoot bracketed exposures and then drive those with an intervalometer (interval timer) that you start right as totality begins.  This might be the easiest thing, but will make it a little tricky to capture things like Bailey's Beads that need quite different exposures than the corona.
