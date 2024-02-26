@@ -52,10 +52,10 @@ This year, I'm planning to use a motorized equatorial mount.  I expect it's goin
 
 ## Capturing Eclipse Phases
 Eclipses are denoted by four main events:
- - **C1** - The lunar disk begins to cover the sun - the start of the ***partial*** phase.
- - **C2** - The last bit of the photosphere (the bright part of the sun) disappears behind the moon.  This is the start of ***totality***.
- - **C3** - The photosphere reappears from behind the sun.  End of totality, back to the partial phase.
- - **C4** - The last bit of the lunar disk passes from the solar disk.  Eclipse is over. Traffic jams abound.
+ - **C1** - The lunar disk begins to cover the sun - the start of the ***partial*** phase.<br>![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse-C1.jpg)
+ - **C2** - The last bit of the photosphere (the bright part of the sun) disappears behind the moon.  This is the start of ***totality***.<br>![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse-C2.jpg)
+ - **C3** - The photosphere reappears from behind the sun.  End of totality, back to the partial phase.<br>![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse-C3.jpg)
+ - **C4** - The last bit of the lunar disk passes from the solar disk.  Eclipse is over. Traffic jams abound.<br>![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse-C4.jpg)
 Note that **C2** and **C3** only apply if you're in the path of totality.  Otherwise you'll only experience **C1** and **C4**.
 
 ### Partial Phases
