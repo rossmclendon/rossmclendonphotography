@@ -79,9 +79,11 @@ Of the various filter options out there, a few thoughts to consider...
 In 2017, I purchased a simple [cardboard full-aperture filter](https://www.bhphotovideo.com/c/buy/universal-solar-filters/).  It performed well and was quite affordable.
 
 #### H-Alpha Filtering
-If you want to spice things up, you could consider investing in H-alpha equipment.  These are special filters designed to transmit very specific frequencies of light.  While a regular solar filter blocks almost all of the light coming into the camera/telescope, H-α blocks all light except for a very narrow band with a wavelength of 656.28 nm - think of just letting in a tiny slice of the rainbow.  This light comes from the sun's chromosphere and contains a great deal of detail that is normally washed out by the other spectra of light emitted by the sun.
+If you want to spice things up for the partial phases, you could consider investing in H-alpha equipment.  These are special filters designed to transmit very specific wavelengths of light.  While a regular solar filter blocks almost all of the light coming into the camera/telescope, H-α blocks all light except for a very narrow band with a wavelength of 656.28 nm - think of just letting in a tiny slice of the rainbow.  This light comes from the sun's chromosphere and contains a great deal of detail that is normally washed out by the other spectra of light emitted by the sun.
 
-This isn't just another filter you put on your lens - generally you do H-alpha imaging with dedicated telescopes and monochrome cameras.  Good H-alpha solar imagery is a major field in and of itself.
+This isn't just another filter you put on your lens - generally you do H-alpha imaging with dedicated telescopes and monochrome cameras.  Good H-alpha solar imagery is a major field in and of itself.  I'm just getting into it, and have quite a ways to go.
+
+![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/sun_hydrogen_alpha.jpg)
 
 ### Totality
 Totality runs from C2 to C3, assuming you're in the path.
