@@ -136,8 +136,8 @@ This is the bit of the blog that's probablby most helpful for new solar eclipse 
 
 Here's a gallery of images with exposure information included.  Focus on the unfiltered Bailey's beads and totality images.  During partial phases, you may need to adjust your exposure from what mine was depending on your filter, but unlike totality this is something you can test yourself ahead of time.
 
-<div class="gallery" data-columns="4">
-{% for i in (1..44) %}
+<div class="gallery" data-columns="5">
+{% for i in (1..25) %}
     <img src="{{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/exposure-examples/eclipse-totality-with-exposure-{{ i }}.jpg" alt="image" />
 {% endfor %}
 </div>
