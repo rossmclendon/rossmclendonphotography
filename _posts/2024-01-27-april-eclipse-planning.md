@@ -85,7 +85,7 @@ If you want to spice things up for the partial phases, you could consider invest
 
 This isn't just another filter you put on your lens - generally you do H-alpha imaging with dedicated telescopes and monochrome cameras.  Good H-alpha solar imagery is a major field in and of itself.  I'm just getting into it, and have quite a ways to go.
 
-![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/sun_hydrogen_alpha.jpg)
+![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/sun_hydrogen_alpha_ii.jpg)
 
 ### Totality
 Totality runs from C2 to C3, assuming you're in the path.
