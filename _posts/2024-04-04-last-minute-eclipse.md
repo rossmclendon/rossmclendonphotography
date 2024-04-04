@@ -28,10 +28,10 @@ If you're undeterred by the above admonition, then my next piece of advice is to
 With that out of the way, let's get on with the guide.
 
 ## Background info:
-Eclipses are denoted by four main events that I'll refernce throughout this guide:
+Eclipses are denoted by four main contact events that I'll refernce throughout this guide:
  - **C1** (First Contact) - The lunar disk begins to cover the sun - the start of the ***partial*** phase.<br>![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse-C1.jpg)
  - **C2** (Second Contact) - The last bit of the photosphere (the bright part of the sun) disappears behind the moon.  This is the start of ***totality***.<br>![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse-C2.jpg)
- - **Maximum Totality** - Halfway between C2 and C3 when you're at the deepest part of the moon's shadow.  The sky will be it's darkest at this point.
+ - **Maximum Totality** - Not one of the four main contact events but a useful reference point.  Halfway between C2 and C3 when you're at the deepest part of the moon's shadow.  The sky will be it's darkest at this point.
  - **C3** (Third Contact) - The photosphere reappears from behind the sun.  End of totality, back to the partial phase.<br>![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse-C3.jpg)
  - **C4** (Fourth Contact) - The last bit of the lunar disk passes from the solar disk.  The eclipse is over. Traffic jams abound.<br>![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse-C4.jpg)
  
