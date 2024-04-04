@@ -78,9 +78,9 @@ The approach for setting custom modes will depend on your camera.  I'll show som
 
 Each of the exposure settings I'm sharing here are based on suggestions on [Xavier Jubier's excellent webpage](http://xjubier.free.fr/en/site_pages/SolarEclipseExposure.html) and a bit my own experience in 2017.
 
-## Custom Mode for Bailey's Beads
+## Custom Mode for Baily's Beads
 
-**Bailey's Beads** are the last little bits of light peeking through the valleys on the limb of hte moon.  They change rapidly as you go into C1.  They are shot without a filter in the 10-20 seconds before C1.  At this point you shouldn't look at the sun with your eyes, but enough of the sun is blocked that you won't damage your camera by removing the filter.
+**Baily's Beads** are the last little bits of light peeking through the valleys on the limb of hte moon.  They change rapidly as you go into C1.  They are shot without a filter in the 10-20 seconds before C1.  At this point you shouldn't look at the sun with your eyes, but enough of the sun is blocked that you won't damage your camera by removing the filter.
 
 ![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse_2017_baileys_beads.jpg)
 
@@ -90,7 +90,7 @@ You'll want to shoot them in a burst framerate that your camera can sustain for 
 If you camera has three custom shooting modes, store this in custom mode 1.  If you have fewer modes, then change your settings to these after your last partial phase image before you take off your filter.
 
 ## Custom Mode for Chromoshpere and Prominences
-The chromosphere is the relatively thin red middle layer of the sun's atmosphere.  It's always present but normally can't be seen because the photosphere is so much brighter.  It's briefly visible just after C1, once the last bit of the bright photosphere is gone (the last of Bailey's Beads disappears).  It is safe to view with your unprotected eye, so this is the point where you take off your solar glasses.
+The chromosphere is the relatively thin red middle layer of the sun's atmosphere.  It's always present but normally can't be seen because the photosphere is so much brighter.  It's briefly visible just after C1, once the last bit of the bright photosphere is gone (the last of Baily's Beads disappears).  It is safe to view with your unprotected eye, so this is the point where you take off your solar glasses.
 
 Prominences are arcs of plasma extending from the solar limb.  They are also reddish in color and are a bit dimmer than the chromosphere.  They'll also become visible after the photosphere passes fully behind the moon.
 
@@ -100,7 +100,7 @@ To shoot these, you'll want a range of exposures values spanning from around EV 
 
 ![]({{ site.baseurl }}/images/blog/2024-04-04-last-minute-eclipse-photography/SettingsChromosphereProms.jpg)
 
-If you have at least two custom modes available, then set this as one of them (if you have 2 custom modes, set this as C1, and if you have three, set this as C2).  If you only have one custom mode, then just plan to keep shooting bursts 10-15 seconds after Bailey's Beads disappear, bumping your exposure part of a stop brighter between short bursts as you work your way to EV 16.
+If you have at least two custom modes available, then set this as one of them (if you have 2 custom modes, set this as C1, and if you have three, set this as C2).  If you only have one custom mode, then just plan to keep shooting bursts 10-15 seconds after Baily's Beads disappear, bumping your exposure part of a stop brighter between short bursts as you work your way to EV 16.
 
 ## Custom Mode for the Corona
 The **corona** is the sun's outer atmosphere and is the headliner of totality.  It's breathtaking - I think it's the most beautiful sight in the natural world.  It's also the most challenging part of an eclipse to photograph as its luminosity drops off significantly as it extends away from the sun.  The following exposure is a composite taken from many different exposures to capture much of this detail.
@@ -162,7 +162,7 @@ Note that the edge of the sun will be dimmer than the center (called *limb darke
 Check your battery and put in a fresh one if you have any concerns that it may not last through totality.  Double-check your focus.  Prepare yourself mentally.  Take in the surroundings as the light will have started looking a bit odd.  If you're planning a lens change, I'd probably do it now to get things dialed back in before the excitement.
 
 ## 2 Minutes Before Totality
-Things are about to get very exciting.  After shooting your last partial phase image about a minute before C1, switch your camera to your custom mode for Bailey's Beads or put the settings for that phase in manually.  Frame the sun so that it'll pass through the center at maximum eclipse (the sun will move about one solar diameter ever 2 minutes, you should have a feel for how quikcly the sun moves across your frame at this point).  Get ready to remove your solar filter (and have a place ready to set it down).
+Things are about to get very exciting.  After shooting your last partial phase image about a minute before C1, switch your camera to your custom mode for Baily's Beads or put the settings for that phase in manually.  Frame the sun so that it'll pass through the center at maximum eclipse (the sun will move about one solar diameter ever 2 minutes, you should have a feel for how quikcly the sun moves across your frame at this point).  Get ready to remove your solar filter (and have a place ready to set it down).
  
 ## Totality
 This is the exciting and hard part of photographing an eclipse.  Above all else, don't forget to take it in with your own two eyes.  If everything falls apart photography-wise, just step away from your camera and enjoy the moment.
@@ -170,11 +170,11 @@ This is the exciting and hard part of photographing an eclipse.  Above all else,
 ### Remove the Filter
 20-30 seconds before C2, remove the filter and set it in the place where you know where it is.  **DON'T FORGET TO REMOVE THE FILTER!**  Your brain is likely to break as you behold what's happening in the sky and around you and consider in awe the movement of celestial bodies spanning millions of miles to make this all happen, so do everything you can to help remind yourself to take the filter off.  If you forget, you'll have no images of the best part of the eclipse and you'll waste time wondering why your camera isn't working.
 
-### Bailey's Beads
-Once your filter is off, start your Bailey's Beads burst.  You should know how long you can shoot whatever burst rate you've got set up (optimally set a burst speed your camera can sustain indefinitely) and time your burst so that you can sustain it up until the moment of C2, when the last bead disappears.  You are now officially in totality.  People around you will be cheering.  You may be cheering.
+### Baily's Beads
+Once your filter is off, start your Baily's Beads burst.  You should know how long you can shoot whatever burst rate you've got set up (optimally set a burst speed your camera can sustain indefinitely) and time your burst so that you can sustain it up until the moment of C2, when the last bead disappears.  You are now officially in totality.  People around you will be cheering.  You may be cheering.
 
 ### Chromoshpere and Prominences
-Switch to your chomosphere and prominences custom mode and start shooting.  If you don't have a custom mode for this, iterate on bumping up the exposure 2/3 stop and firing a burst until you're a few stops brighter than you were for Bailey's Beads.  Once you've done this or run through a few bracketed sequences, if you have a pair of binoculars this is an interesting time to take a look.
+Switch to your chomosphere and prominences custom mode and start shooting.  If you don't have a custom mode for this, iterate on bumping up the exposure 2/3 stop and firing a burst until you're a few stops brighter than you were for Baily's Beads.  Once you've done this or run through a few bracketed sequences, if you have a pair of binoculars this is an interesting time to take a look.
 
 ### Corona
 Now switch your mode dial your custom mode for the corona.  Shoot through the bracketed exposure sequences you've planned and practiced.  Once you're done, step back from your camera and enjoy totality with your own two eyes, marveling at what's likley the most incredible sight you've ever seen.  Be listening to the timing app for "Maximum Eclipse"  When you hear this, totality is half over.  If you're still messing with photography, this is probably a good final point to cut yourself off.
@@ -183,7 +183,7 @@ Now switch your mode dial your custom mode for the corona.  Shoot through the br
 If you want, you can switch back to the Chromosphere and Prominences settings and shoot those on the flipside of totatlity in the ~20 seconds leading up to C3.
 
 ### After C3
-Bailey's beads happen again after C3, so just before C3 you can switch to your Bailey's Beads settings and shoot another burst of those.  Remember not to look at Bailey's Beads with your unprotected eyes.  After shooting the burst for the Bailey's Beads after C3 **MAKE SURE TO PUT YOUR FILTER BACK ON*** (within about 30 seconds of the first bead appearing).  If you forget, don't worry - the smoke coming from your camera will eventually remind you.
+Baily's beads happen again after C3, so just before C3 you can switch to your Baily's Beads settings and shoot another burst of those.  Remember not to look at Baily's Beads with your unprotected eyes.  After shooting the burst for the Baily's Beads after C3 **MAKE SURE TO PUT YOUR FILTER BACK ON*** (within about 30 seconds of the first bead appearing).  If you forget, don't worry - the smoke coming from your camera will eventually remind you.
 
 ## Partial Phases (Post-Totality)
 Now that totality is done, you can shoot the partial phases again just as you did before.  Again, make sure you keep the filter on your camera.
@@ -194,6 +194,6 @@ Load you stuff up.  Get in your car.  Drive home (which will take much longer th
 # Closing Remarks
 Practice, practice, practice.  Test your settings focused on something so you can check for things like shutter shock that could introduce blurriness.  Be aware that if you're dealing with thin clouds or other factors reducing sky transparency, all these exposure values will be a bit on the dark side (maybe just bump your ISO if that ends up being the case).  Have a plan, write it down, rehearse it as much as you can, and you'll come away with something.
 
-Note that there's a phase/exposure commonly referenced called the "Diamond Ring" which is a brighter exposure of the last bit of photosphere around the same time as Bailey's Beads shot without filter and exposed around EV 12.5, bright enough to reveal a small bit of inner corona around the moon.  I haven't included the Diamond Ring in this guide as I think it makes things a bit too complicated to add a whole other exposure regime in the seconds before C2 and after C3.  I just mention it here in case you're feeling especially confident and I don't want to be called out for omitting it.
+Note that there's a phase/exposure commonly referenced called the "Diamond Ring" which is a brighter exposure of the last bit of photosphere around the same time as Baily's Beads shot without filter and exposed around EV 12.5, bright enough to reveal a small bit of inner corona around the moon.  I haven't included the Diamond Ring in this guide as I think it makes things a bit too complicated to add a whole other exposure regime in the seconds before C2 and after C3.  I just mention it here in case you're feeling especially confident and I don't want to be called out for omitting it.
 
 Enjoy the experience.  Think about why something so unlikely as our total solar eclipses are also so beautiful.  And above all else, whatever you do, make sure that you
