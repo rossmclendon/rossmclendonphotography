@@ -31,14 +31,14 @@ With that out of the way, let's get on with the guide.
 Eclipses are denoted by four main contact events that I'll refernce throughout this guide:
  - **C1** (First Contact) - The lunar disk begins to cover the sun - the start of the ***partial*** phase.<br>![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse-C1.jpg)
  - **C2** (Second Contact) - The last bit of the photosphere (the bright part of the sun) disappears behind the moon.  This is the start of ***totality***.<br>![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse-C2.jpg)
- - **Maximum Totality** - Not one of the four main contact events but a useful reference point.  Halfway between C2 and C3 when you're at the deepest part of the moon's shadow.  The sky will be it's darkest at this point.
+ - **Maximum Totality** - Not one of the four main contact events but a useful reference point.  Halfway between C2 and C3 when you're at the deepest part of the moon's shadow.  The sky will be its darkest at this point.
  - **C3** (Third Contact) - The photosphere reappears from behind the sun.  End of totality, back to the partial phase.<br>![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse-C3.jpg)
  - **C4** (Fourth Contact) - The last bit of the lunar disk passes from the solar disk.  The eclipse is over. Traffic jams abound.<br>![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse-C4.jpg)
  
 # Safety
 There are a few important safety considerations to keep in mind with eclipses.
 ## Solar Energy
-This eclipse is high in the sky, so absent thin cloud cover, you'll be dealing with the full-power sun.  To photograph the uneclipsed and partial phases, you **must** have a proper **solar** filter on the **front** of your lens.  This filter must cover the whole aperture of the lens and must be attached such that it won't inadvertently fall off.  This becomes more important as your lens focal length goes up.  Failure to do this will result in melted or burned iris blades, shutter curtains, and sensors, as well as eyeballs if you try to look through an optical viewfinder.  And speaking of optical viewfinders, don't use them.  Use live view as it's not able to melt your retinas even if you point a giant untiltered telephoto lens at the sun (don't do that, because your camera will be toast, but at least you'll still be able to see if you were using live view).  Also, live view locks up your mirror which will eliminate mirror slap as a potential source of blur.
+This eclipse is high in the sky, so absent thin cloud cover, you'll be dealing with the full-power sun.  To photograph the uneclipsed and partial phases, you **must** have a proper **solar** filter on the **front** of your lens.  This filter must cover the whole aperture of the lens and must be attached such that it won't inadvertently fall off.  This becomes more important as your lens focal length goes up.  Failure to do this will result in melted or burned iris blades, shutter curtains, and sensors, as well as eyeballs if you try to look through an optical viewfinder.  And speaking of optical viewfinders, don't use them.  Use live view as it's not able to melt your retinas even if you point a giant unfiltered telephoto lens at the sun (don't do that, because your camera will be toast, but at least you'll still be able to see if you were using live view).  Also, live view locks up your mirror which will eliminate mirror slap as a potential source of blur.
 
 Do **not** use rear drop-in filters as the lens will concentrate the solar energy onto them which will quickly melt them.  Do not look through an optical viewfinder or magnifying optic like binoculars or telescopes with solar glasses on.  Also, I recommend against using regular ND filters (even stacked) as these may not block the IR and UV spectra that could damage your camera or lens.  
 
@@ -80,7 +80,7 @@ Each of the exposure settings I'm sharing here are based on suggestions on [Xavi
 
 ## Custom Mode for Baily's Beads
 
-**Baily's Beads** are the last little bits of light peeking through the valleys on the limb of hte moon.  They change rapidly as you go into C1.  They are shot without a filter in the 10-20 seconds before C1.  At this point you shouldn't look at the sun with your eyes, but enough of the sun is blocked that you won't damage your camera by removing the filter.
+**Baily's Beads** are the last little bits of light peeking through the valleys on the limb of hte moon.  They change rapidly as you go into C2.  They are shot without a filter in the 10-20 seconds before C2.  At this point you shouldn't look at the sun with your eyes, but enough of the sun is blocked that you won't damage your camera by removing the filter.
 
 ![]({{ site.baseurl }}/images/blog/2024-02-19-photographing-eclipse/eclipse_2017_baileys_beads.jpg)
 
@@ -90,7 +90,7 @@ You'll want to shoot them in a burst framerate that your camera can sustain for 
 If you camera has three custom shooting modes, store this in custom mode 1.  If you have fewer modes, then change your settings to these after your last partial phase image before you take off your filter.
 
 ## Custom Mode for Chromoshpere and Prominences
-The chromosphere is the relatively thin red middle layer of the sun's atmosphere.  It's always present but normally can't be seen because the photosphere is so much brighter.  It's briefly visible just after C1, once the last bit of the bright photosphere is gone (the last of Baily's Beads disappears).  It is safe to view with your unprotected eye, so this is the point where you take off your solar glasses.
+The chromosphere is the relatively thin red middle layer of the sun's atmosphere.  It's always present but normally can't be seen because the photosphere is so much brighter.  It's briefly visible just after C1, once the last bit of the bright photosphere is gone (the last of Baily's Beads disappears).  It is safe to view with your unprotected eye, so this is the first point where you look at the sun without your solar glasses.
 
 Prominences are arcs of plasma extending from the solar limb.  They are also reddish in color and are a bit dimmer than the chromosphere.  They'll also become visible after the photosphere passes fully behind the moon.
 
