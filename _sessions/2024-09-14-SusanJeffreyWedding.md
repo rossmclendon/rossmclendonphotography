@@ -5,10 +5,10 @@ description: Susan and Jeffrey Wedding Album
 search: exclude
 sitemap: false
 noindex: true
-featured_image: '/images/sessions/2024-09-14_SusanJeffreyWedding/CeremonyBannerImage.jpg'
+featured_image: '/images/sessions/2024-09-14_SusanJeffreyWedding/SusanJeffreyWedding_Web-97.jpg'
 ---
 
-![]({{ site.baseurl }}/images/sessions/2024-09-14_SusanJeffreyWedding/CeremonyBannerImage.jpg)
+![]({{ site.baseurl }}/images/sessions/2024-09-14_SusanJeffreyWedding/SusanJeffreyWedding_Web-97.jpg)
 
 Susan and Jeffrey's Wedding in Plymouth.
 
